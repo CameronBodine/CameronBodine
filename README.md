@@ -1,5 +1,5 @@
 # Cameron S. Bodine, PhD
-[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/giswqs?tab=followers)
+[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/cameronbodine?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/cameronbodine)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=_yCgvj4AAAAJ&hl=en)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cameronbodine.cameronbodine)
